@@ -4,3 +4,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 #define waterPump D4
+
+char auth[]= "SLxAnuWfMuRyX6B4ySUgtcU_begMxBkT";
+char ssid[]= "Mac&Cheese";
+char pass[]= "tajin5050";
