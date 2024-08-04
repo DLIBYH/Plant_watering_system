@@ -8,3 +8,5 @@
 char auth[]= "SLxAnuWfMuRyX6B4ySUgtcU_begMxBkT";
 char ssid[]= "Mac&Cheese";
 char pass[]= "tajin5050";
+int soilMoistureValue = 0;
+int soilmoisturepercent=0;
