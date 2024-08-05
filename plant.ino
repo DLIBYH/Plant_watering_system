@@ -10,3 +10,6 @@ char ssid[]= "Mac&Cheese";
 char pass[]= "tajin5050";
 int soilMoistureValue = 0;
 int soilmoisturepercent=0;
+int AirValue = 616;   
+int WaterValue = 335; 
+SimpleTimer timer;
