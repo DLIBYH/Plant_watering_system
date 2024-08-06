@@ -13,3 +13,5 @@ int soilmoisturepercent=0;
 int AirValue = 616;   
 int WaterValue = 335; 
 SimpleTimer timer;
+
+void MainFunction() {
