@@ -15,3 +15,4 @@ int WaterValue = 335;
 SimpleTimer timer;
 
 void MainFunction() {
+soilMoistureValue = analogRead(A0);
