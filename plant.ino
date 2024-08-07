@@ -17,3 +17,4 @@ SimpleTimer timer;
 void MainFunction() {
 soilMoistureValue = analogRead(A0);
 //Serial.println(soilMoistureValue);
+soilmoisturepercent = map(soilMoistureValue, AirValue, WaterValue, 0, 100);
