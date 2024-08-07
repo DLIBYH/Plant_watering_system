@@ -16,3 +16,4 @@ SimpleTimer timer;
 
 void MainFunction() {
 soilMoistureValue = analogRead(A0);
+//Serial.println(soilMoistureValue);
