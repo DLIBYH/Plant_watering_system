@@ -20,3 +20,4 @@ soilMoistureValue = analogRead(A0);
 soilmoisturepercent = map(soilMoistureValue, AirValue, WaterValue, 0, 100);
 
 Blynk.virtualWrite(V0, soilmoisturepercent); 
+}
