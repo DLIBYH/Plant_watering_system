@@ -22,4 +22,4 @@ soilmoisturepercent = map(soilMoistureValue, AirValue, WaterValue, 0, 100);
 Blynk.virtualWrite(V0, soilmoisturepercent); 
 }
 
-void setup()
+void setup() {
