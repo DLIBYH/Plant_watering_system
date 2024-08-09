@@ -24,3 +24,4 @@ Blynk.virtualWrite(V0, soilmoisturepercent);
 
 void setup() {
  pinMode(D4,OUTPUT);  
+ Serial.begin(9600);
