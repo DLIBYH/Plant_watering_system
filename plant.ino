@@ -28,3 +28,4 @@ void setup() {
  Blynk.begin(auth, ssid, pass);
  timer.setInterval(1000L,MainFunction);
 }
+void loop() 
