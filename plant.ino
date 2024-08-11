@@ -29,3 +29,4 @@ void setup() {
  timer.setInterval(1000L,MainFunction);
 }
 void loop() {
+Blynk.run();
