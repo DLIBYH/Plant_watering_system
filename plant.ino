@@ -30,3 +30,6 @@ void setup() {
 }
 void loop() {
 Blynk.run();
+timer.run();
+
+}
