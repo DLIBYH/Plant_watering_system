@@ -12,12 +12,8 @@ The motivation for developing smart systems for garden care comes from a desire 
 # Raw Requirements:
 1.	This will be an Android App for controlling IoT based system for “Iot based smart plant watering ystem” all over the world.
 2.	This will be a remotely controlled plant watering system against manual system. 
-3.	For registration user will be submit their own information, Like: Name, Number of user, Number of control electronic appliance, Mobile number, Current Address.
-4.	When a user will get a confirmation massage will be sent to user email with Username & password.
-5.	There will be create another apps which will control the fan speed & set timer for all electronic appliance.
-6.	User also can control their electronic appliance via google voice assistant. 
-7.	There will be create a messenger bot to control electronic appliance via sending message in the messenger.
-8.	This will be a dashboard which can show the user’s live electronic appliance off/on data.
+3.	User can control their dried up plants via a smart android phone. 
+4.	A stable internet connection is required for the task.
 
 
 # Hardware Specifications:
