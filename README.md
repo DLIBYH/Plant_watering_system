@@ -10,8 +10,8 @@ This Smart Plant Watering system is fully controlled via the internet. It can be
 The motivation for developing smart systems for garden care comes from a desire to enhance convenience, ensure consistent care, and improve resource management. In the case of plant care, convenience is key, especially in today’s fast-paced world where time is precious. The primary objective of this project is to create a smart plant watering system that can be controlled remotely via the internet. This system is designed to integrate with various types of plants and ensure they receive the right amount of water at the right time, no matter where you are. By allowing remote monitoring and control, this smart watering system ensures your plants thrive even when you're away.
 
 # Raw Requirements:
-1.	This will be an Android Apps for control IoT based system for “Smart Home Automation System” all over the world.
-2.	This will be a home monitoring automation system against manual system. 
+1.	This will be an Android App for controlling IoT based system for “Iot based smart plant watering ystem” all over the world.
+2.	This will be a remotely controlled plant watering system against manual system. 
 3.	For registration user will be submit their own information, Like: Name, Number of user, Number of control electronic appliance, Mobile number, Current Address.
 4.	When a user will get a confirmation massage will be sent to user email with Username & password.
 5.	There will be create another apps which will control the fan speed & set timer for all electronic appliance.
