@@ -18,9 +18,9 @@ The motivation for developing smart systems for garden care comes from a desire 
 
 # Hardware Specifications:
 •	NodeMCU esp 8266
+- Moisture sensor
 •	4 channel relay module
 •	Servo motor
-•	Regulator
 •	5 volt adapter
 •	Jumper wire
 
