@@ -1,7 +1,7 @@
 # IoT-based-Smart-Plant-Watering-System
 
 # Project Objectives: 
-The main objective of this project is to build a smart plant watering device which can be used to water dried up plants via internet. The home automation device that we build can be integrated with almost all the home appliances and can be used to control them remotely from any part of the world over internet.
+The main objective of this project is to build a smart plant watering device which can be used to water dried up plants via internet. The plant watering device that we build can be controlled remotely from any part of the world over internet.
 
 # Description of Project: 
 This Smart Home Automation system is totally controlled via internet. We can use this system from Android/IOS with an IOT based dedicated app. Also, you can use this automation product using google voice assistant and also with Facebook Messenger. There is also a feature which will help you to set a time to start and stop the whole system. This system can control your home appliances like light, fan (on/off and speed control), IR devices. You can control your lights from anywhere in the world and turn them on, off using your Facebook messenger. You will get the best ever seamless control to your fan’s speed through the dedicated app and the app interface makes things work like a charm and you will get used to the new control in no time. With a single tap, you can turn an appliance on or off and which response is too much better. Also, you can control your infrared based appliances such as air conditioner, television and entertainment systems right from your smartphone.
