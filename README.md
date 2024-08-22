@@ -31,3 +31,10 @@ The motivation for developing smart systems for garden care comes from a desire 
 1.	Arduino Compiler
 2.	Programming Language: C
 3.	Blynk app
+
+#Screenshots
+
+![Plant_Monitoring](https://github.com/user-attachments/assets/0e25645b-8422-4cd8-9ba5-58a6263578fa)
+
+
+![Blynk_Console](https://github.com/user-attachments/assets/d1858163-aacd-4c69-81dc-fff7a1ea9587)
